@@ -7,6 +7,6 @@ I have included a geo_environment yml file for use with geopandas, but I ended u
 
 The fbprophet environment is necessary for using the statistical analysis notebook.  (I determined fbprophet could not run on python 3.8, so built a new environment on python 3.7.)
 
-The MoCoDetails csv referenced in the code is simply a merge of the three csv files (crash_reporting) uploaded here.  I could not upload other csv files because they were too large.  The link to the datasets is in the code in the notebooks (and in the citations under the plots in the final report.)
+The MoCoDetails csv referenced in the code is simply a merge of the three csv files (crash_reporting) uploaded here.  The crash_data_pop_data.csv is a dataframe I created from datasets from the US Census's ACS, and data from Maryland's crash datasets.  I could not upload other csv files because they were too large.  The link to the datasets is in the code in the notebooks (and in the citations under the plots in the final report.)
 
 
